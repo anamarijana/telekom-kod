@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sa plotovima", "sa plotovima\sa plotovima.pyproj", "{861CEC18-68E4-4A7A-A209-4F2814B15599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861CEC18-68E4-4A7A-A209-4F2814B15599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861CEC18-68E4-4A7A-A209-4F2814B15599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A966B9C7-C062-42AB-AE41-9702BA0958B2}
+	EndGlobalSection
+EndGlobal
